@@ -1,0 +1,20 @@
+Software Engineer|c++:0.8,python:0.7,algorithms:0.9,system_design:0.7,oop:0.8,data_structures:0.8|Tech|Design, build and maintain software applications
+Data Scientist|python:0.9,ml:0.8,statistics:0.9,sql:0.7,data_visualization:0.8,numpy:0.6|Tech|Extract insights from large datasets using ML and statistics
+Frontend Developer|html:0.9,css:0.8,javascript:0.9,react:0.9,uiux:0.7,typescript:0.6|Tech|Build interactive web UIs and client-side applications
+Backend Developer|java:0.9,sql:0.9,nodejs:0.8,api_design:0.8,system_design:0.7,databases:0.8|Tech|Build server-side logic, APIs and database architecture
+Machine Learning Engineer|python:0.9,tensorflow:0.9,ml:0.9,deep_learning:0.8,data_engineering:0.7,pytorch:0.7|Tech|Design and deploy ML models at production scale
+Full Stack Developer|html:0.8,css:0.7,javascript:0.9,react:0.8,nodejs:0.8,databases:0.7,api_design:0.7|Tech|Develop both client-side and server-side web applications
+DevOps Engineer|linux:0.9,docker:0.8,kubernetes:0.7,aws:0.8,ci_cd:0.8,networking:0.7,bash:0.7|Tech|Automate infrastructure deployment and software delivery pipelines
+Cloud Engineer|aws:0.9,azure:0.8,gcp:0.7,networking:0.8,security:0.7,virtualization:0.8,terraform:0.8|Tech|Design and manage scalable cloud infrastructure
+Cybersecurity Analyst|networking:0.9,security:0.9,cryptography:0.7,linux:0.8,ethical_hacking:0.8,firewall:0.7|Tech|Protect systems and data from cyber threats and attacks
+Mobile App Developer|java:0.8,kotlin:0.9,swift:0.7,flutter:0.8,uiux:0.7,android:0.8|Tech|Build iOS and Android applications for mobile devices
+Game Developer|c++:0.9,unity:0.8,unreal:0.7,graphics:0.8,maths:0.8,physics:0.6|Tech|Design and develop interactive video games
+Data Engineer|python:0.8,sql:0.9,etl:0.9,big_data:0.8,spark:0.8,hadoop:0.7,data_pipelines:0.8|Tech|Build data pipelines and infrastructure for analytics
+AI Engineer|python:0.9,ml:0.9,deep_learning:0.9,nlp:0.8,computer_vision:0.8,pytorch:0.8|Tech|Develop intelligent systems using AI and deep learning
+Blockchain Developer|solidity:0.9,ethereum:0.8,cryptography:0.8,web3:0.8,smart_contracts:0.9,javascript:0.6|Tech|Build decentralised applications and smart contracts
+QA Engineer|testing:0.9,automation:0.8,selenium:0.8,debugging:0.8,java:0.7,api_testing:0.7|Tech|Ensure software quality through systematic testing
+UI/UX Designer|figma:0.9,uiux:0.9,prototyping:0.8,user_research:0.8,css:0.6,adobe_xd:0.7|Design|Create user-centred digital experiences and interfaces
+Product Manager|agile:0.8,communication:0.9,analytics:0.7,strategy:0.8,leadership:0.7,roadmapping:0.8|Business|Define product vision and lead cross-functional teams
+Data Analyst|sql:0.9,excel:0.8,python:0.7,data_visualization:0.9,statistics:0.8,tableau:0.7|Analytics|Analyse data to support business decisions
+Network Engineer|networking:0.9,cisco:0.8,linux:0.7,firewall:0.8,protocols:0.9,routing:0.8|Tech|Design and maintain enterprise computer networks
+Embedded Systems Engineer|c++:0.9,c:0.9,rtos:0.8,hardware:0.8,microcontrollers:0.9,embedded:0.9|Tech|Develop software for embedded hardware and real-time systems
